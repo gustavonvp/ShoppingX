@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "762066903623",
+    "project_id": "disco-idea-310219",
+    "storage_bucket": "disco-idea-310219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762066903623:android:a669f2488531ae3ca54762",
+        "android_client_info": {
+          "package_name": "com.br.shoppingx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762066903623-eno4879odndvhb23rd7v8208rd50le2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.shoppingx",
+            "certificate_hash": "c35d6eec9c8a872a34d4d1dda03e59202cc1b2aa"
+          }
+        },
+        {
+          "client_id": "762066903623-4cnmjisp15064hpn1l427gimvgftmqjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zV0zA9-Irkv_weHF5e5BnESe4N1U1z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762066903623-4cnmjisp15064hpn1l427gimvgftmqjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
